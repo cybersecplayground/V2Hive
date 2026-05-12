@@ -60,7 +60,7 @@ V2Hive is part of a larger family of free tools:
 
 ## 📥 How to Use
 
-1. **Import a single config or full configs list ** - Copy any `vmess://` or `vless://` link into your V2Ray client
+1. **Import a single config or full configs list** - Copy any `vmess://` or `vless://` link into your V2Ray client
 2. **Bulk import** - Download any `.txt` file and import multiple configs at once
 3. **Auto-update** - Use our Python script (coming soon) to fetch latest configs
 4. **Auto-update** - Use our LetsGetVPN Channel (Checked Configs) to fetch latest configs
