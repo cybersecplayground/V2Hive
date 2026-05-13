@@ -1,7 +1,7 @@
 # 🐝 V2Hive
 <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/e5e580f4-1f22-482f-a476-96f7004464f8" />
 
-### A curated, rebranded & sorted collection of V2Ray configurations
+### A curated & sorted collection of V2Ray configurations
 
 [![GitHub](https://img.shields.io/badge/GitHub-cybersecplayground/v2hive-black)](https://github.com/cybersecplayground/v2hive)
 [![Telegram](https://img.shields.io/badge/Telegram-@cybersecplayground-blue)](https://t.me/cybersecplayground)
