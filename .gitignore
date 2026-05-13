@@ -1,0 +1,29 @@
+# Python scripts
+*.py
+*.bat
+*.sh
+*.exe
+
+# Database files
+*.mmdb
+
+# Virtual environment
+v2hive_env/
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Backup folders
+backup_*/
+*.bak
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
