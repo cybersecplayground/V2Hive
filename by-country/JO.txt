@@ -5,11 +5,11 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@62.72.166.168:8880/?type=ws&encrypt
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@62.72.166.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@62.72.166.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@62.72.166.143:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
-vless://401374e6-df77-41fb-f638-dad8184f175b@62.72.166.15:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
+vless://401374e6-df77-41fb-f638-dad8184f175b@62.72.166.15:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmI0NDdjZWU3MjI4ZWIw@91.106.109.17:41022 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWJmMDU0ZGNjMDM0MmNk@91.106.109.74:11201 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48210 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48211 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48212 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWJmMDU0ZGNjMDM0MmNk@91.106.109.74:11201 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48213 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTVlZTNjNjJmMGFhZTk2@91.106.109.73:11201 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
