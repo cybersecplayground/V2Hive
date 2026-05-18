@@ -7,5 +7,5 @@ vmess://eyJhZGQiOiAiMjE2LjIzOC44Ni4xNTgiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGU4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVW1LS0FmZlhVVVhBR3F0cVJDMFY5@138.186.140.102:8443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.84.179.114:443?security=tls&sni=da.ylks.xyz&type=ws&host=da.ylks.xyz&path=%2Fblue #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.23.168.120:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&amp;security=tls&amp;type=ws&amp;path=%2Fvless%2F #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
