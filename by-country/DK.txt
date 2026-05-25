@@ -7,8 +7,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.116:989 #🚀 @LetsGetVPN 
 ss://YWVzLTI1Ni1nY206REtYZld3YzRlYnNjcFhUS3BidDg1clNI@193.29.107.197:38742#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
 ss://YWVzLTI1Ni1nY206VHV3Nnp6Wk02SndXTlp5WUY5Y2tDNEpa@193.29.107.211:43963 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
 ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@193.29.107.179:40282#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
-vless://31351ae7-e506-43d3-9fcf-246c5248d336@4a5d89b9376ebaba.freestly.sapienza-mahan.ir:443?mode=auto&amp;path=/&amp;security=tls&amp;alpn=h2,http/1.1&amp;encryption=none&amp;insecure=0&amp;host=nazan-baba-z1.global.ssl.fastly.net&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=nazan-baba-z1.global.ssl.fastly.net#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
-vless://983da2df-bc52-4226-84c1-bbfef0704427@04cc4ef1beb1b536.freestly.sapienza-mahan.ir:443?mode=auto&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=1&amp%3Bhost=nazan-baba-z2.global.ssl.fastly.net&amp%3Bfp=firefox&amp%3Btype=xhttp&amp%3BallowInsecure=1&amp%3Bsni=speedtest.net#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
 vless://d8240505-8848-4ed1-c17d-9dc855d9b2c7@104.22.70.106:443?security=tls&sni=ico.org.uk&path=%2Fd8240505-8848-4ed1-c17d-9dc855d9b2c7&alpn=h3&allowInsecure=1#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
 vless://d8240505-8848-4ed1-c17d-9dc855d9b2c7@104.22.71.106:443?security=tls&sni=ico.org.uk&path=%2Fd8240505-8848-4ed1-c17d-9dc855d9b2c7&alpn=h3&allowInsecure=1#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855/?type=ws&encryption=none&flow=&path=%2F#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
