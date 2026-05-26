@@ -18,8 +18,8 @@ vless://5ef5d3e4-3cf3-4e0d-9342-6758d0a702c1@il2.c2horizon.app:443?security=real
 vless://ba2ac75f-0a9b-4483-9155-c00c8814d7c9@185.239.48.109:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=wPXyRAB1bVkaTGgO5cHEylVAV8SscUQUPn_ggzx6Vxk&sni=google.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IL
 vless://de44b044-8f90-4e18-b742-16591667ff96@20.217.216.51:2053?security=tls&sni=edgetunnel-free.pages.dev&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IL
 vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?type=tcp&security=reality&fp=chrome&pbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&sid=8735&sni=yahoo.com&spx=/#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46281#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46282#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46281#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTVjNzVjMzVkN2VlOTI5@163.171.213.47:19702#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmU1OTVhZWI3YTZhMDM1@163.171.213.47:12025#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IL
