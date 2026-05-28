@@ -2,8 +2,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989 #🚀 @LetsGetVPN 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=1&type=tcp&headerType=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
-vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@212.192.214.167:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.cc&fp=chrome&security=reality&pbk=bDDaSDMsFiIxf5on0yovlJB3h7fPpS40DJRPiE2tJRw&sid=846349c8#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
-vless://850a9a96-ade8-45e2-9c36-15f88af8f9d2@89.147.111.223:8443?encryption=none&security=tls&type=ws&sni=tls.freedonscf.cfd&host=tls.freedonscf.cfd&path=/?ed=2048&source_name=mirror_0150&provider_id=mirror_0150#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?encryption=none&security=tls&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.69:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn14.suio.me&fp=chrome#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
+vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn12.suio.me&fp=chrome#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
 vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.68:443/?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn13.suio.me&fp=chrome#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
