@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYmh6a0ZyalpxVjlvd3dFRkM0dm5r@91.210.57.117:8443 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=/&security=&encryption=none&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYmh6a0ZyalpxVjlvd3dFRkM0dm5r@91.210.57.117:8443 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
 trojan://y0.qLgDed4ElASjr_3+B7kTVb9np1@83.172.159.181:17860?security=tls&headerType=none&type=tcp&sni=www.vk.ru#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.94:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
 vless://576a1db6-81cc-458e-97aa-b4f55f1dbdaf@199.232.40.117:80/?type=ws&encryption=none&host=FastShoVpn.TelegramChannel.com&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇩🇰 DK
