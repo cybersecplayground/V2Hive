@@ -1,6 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 SK
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 SK
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.66.161.10:8443?encryption=none&security=reality&pbk=ZxJt0FNyLrIrrd4c1Uehe86Iqk0BBbKjbP1kEJxOAAg&sid=0f26cb0528&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 SK
-vless://748b694f-c317-463e-a80b-f800fb03eb14@89.46.42.73:8443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&sid=6ba85179e30d4fc2#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 SK
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.66.161.10:8443?allowInsecure=0&sni=ya.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 SK
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.129.141.130:34045/?type=tcp&encryption=none&flow=&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 SK
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.129.141.130:443/?type=tcp&encryption=none&flow=&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 SK
