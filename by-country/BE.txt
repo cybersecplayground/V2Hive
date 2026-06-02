@@ -1,11 +1,11 @@
 vless://8f0120f1-ba26-e137-5e06-a99b844741aa@45.154.96.35:645?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇧🇪 BE
-vless://6fbb83fa-2457-4ea8-8302-b2d603f66682@212.134.84.112:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.cdn77.com&pbk=D-c_-GNBPK7GOl4mR8I6ODJ_Po3fog8AMkiWO7IJFRA&sid=da7c33beb3c1b0&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇧🇪 BE
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.115:40093#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇧🇪 BE
 vless://e99003e7-f724-4612-b7f5-ad4d2b3bcb9c@113.30.152.46:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=tls&amp;sni=telegavpn.com&amp;pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&amp;sid=&amp;packetEncoding=xudp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇧🇪 BE
+vless://6fbb83fa-2457-4ea8-8302-b2d603f66682@212.134.84.112:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.cdn77.com&pbk=D-c_-GNBPK7GOl4mR8I6ODJ_Po3fog8AMkiWO7IJFRA&sid=da7c33beb3c1b0&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇧🇪 BE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:805#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇧🇪 BE
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇧🇪 BE
-ss://YWVzLTI1Ni1nY206enU2cVRLampyTjhxSnBmbldhN2s0Wldq@194.110.115.93:44208#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇧🇪 BE
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.125:40093#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇧🇪 BE
+ss://YWVzLTI1Ni1nY206enU2cVRLampyTjhxSnBmbldhN2s0Wldq@194.110.115.93:44208#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇧🇪 BE
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.108:40093#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇧🇪 BE
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@194.110.115.83:40093#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇧🇪 BE
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@37.120.236.147:40093#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇧🇪 BE
