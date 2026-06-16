@@ -1,6 +1,5 @@
-
-*.py
 *.bat
+*.py
 *.sh
 *.exe
 *.mmdb
