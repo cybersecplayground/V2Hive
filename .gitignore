@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python scripts
 *.py
 *.bat
@@ -27,3 +28,33 @@ backup_*/
 # OS files
 .DS_Store
 Thumbs.db
+=======
+# Python scripts
+*.py
+*.bat
+*.sh
+*.exe
+
+# Database files
+*.mmdb
+
+# Virtual environment
+v2hive_env/
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Backup folders
+backup_*/
+*.bak
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+>>>>>>> 93620df4b588f257c6af1ca865d17f93a1c40822
