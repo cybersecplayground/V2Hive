@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VB@154.127.50.138:31572#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MU
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@197.225.145.26:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MU
