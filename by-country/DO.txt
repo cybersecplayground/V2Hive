@@ -1,6 +1,6 @@
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2053?allowInsecure=1&sni=linek.perry.us.kg&type=ws&host=linek.perry.us.kg&path=/uploads/itemfp=chrome&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2083?allowInsecure=1&sni=linek.perry.us.kg&type=ws&host=linek.perry.us.kg&path=/go.phpfp=chrome&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2087?encryption=none&type=ws&path=/playlist/about/jump.php&host=linek.perry.us.kg&security=tls&sni=linek.perry.us.kg&fp=chrome#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:443?allowInsecure=1&sni=linek.perry.us.kg&type=ws&host=linek.perry.us.kg&path=/urlsfp=chrome&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2083?encryption=none&type=ws&path=/go.php&host=linek.perry.us.kg&security=tls&sni=linek.perry.us.kg&fp=chrome#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2096?allowInsecure=1&sni=linek.perry.us.kg&type=ws&host=linek.perry.us.kg&path=/m/articlessecurity=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:8443?allowInsecure=1&sni=linek.perry.us.kg&type=ws&host=linek.perry.us.kg&path=/games/m/magfp=chrome&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:443?allowInsecure=1&sni=linek.perry.us.kg&type=ws&host=linek.perry.us.kg&path=/urlsfp=chrome&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
