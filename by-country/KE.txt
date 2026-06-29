@@ -1,4 +1,3 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.12.116.66:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 KE
 vless://243ff879-b317-4430-894e-767a131db2ca@104.22.30.97:80?security=none&sni=tr1-vless.ctunnel.xyz&type=ws&host=www.iranserver.com.127.0.0.1.%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9control.%E8%BE%B2%E9%81%94%E6%87%B2.wonkacapitano.buzz.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNpro%3Fed%3D2048#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 KE
 vless://bfaec836-be0b-4688-b1a3-21d0fdfce79d@693154089:1?security=none&encryption=none&headerType=none&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 KE
-ss://77605116-fc3d-4d30-827b-da4338cca255@ke-1.vpnd.io:19938?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=_nqSXF5ujl6eQd687N9Q3ClknW8BEQmI4vO2dFpS2l8&amp;security=reality&amp;sid=2adf17&amp;sni=amazon.com&amp;type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 KE
