@@ -8,8 +8,8 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@62.72.166.143:8880/?type=ws&encrypt
 vless://401374e6-df77-41fb-f638-dad8184f175b@62.72.166.15:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@62.72.166.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.9#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime40.workers.dev#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.30:8880?type=ws&encryption=none&flow=&host=vms.lifetime40.workers.dev#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 vless://74aed513-ec0f-441c-9f9a-e569a7e47280@62.72.166.64:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.9eSUlqSuQqzgoigAkLXz5FlRwB_GX1bMZCjIpNmHH2Q&security=tls&type=ws&headerType=none&path=/content/stream/hls/live/segment-109283-init-v1-fragment-8a2&host=blazor-de.shebrix.ir&sni=blazor-de.shebrix.ir&fp=chrome&alpn=h3,h2,http/1.1#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 vless://775213ac-3976-439a-8977-3277c0e4735d@62.72.166.67:2096?security=tls&sni=fq521.6789.cloudns.be&type=ws&host=fq521.6789.cloudns.be&path=%2FTwitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@62.72.166.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@62.72.166.140:80?path=Telegram @WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTVlZTNjNjJmMGFhZTk2@91.106.109.73:11201#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
