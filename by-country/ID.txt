@@ -1,5 +1,5 @@
-vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?encryption=none&security=none&type=ws&host=id2.v2vless.xyz&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇮🇩 ID
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇮🇩 ID
+vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?encryption=none&security=none&type=ws&host=id2.v2vless.xyz&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇮🇩 ID
 vmess://eyJhZGQiOiAibG1zLnVpbi1hbnRhc2FyaS5hYy5pZCIsICJhaWQiOiAwLCAiaG9zdCI6ICJleGEubmV4dHZwbi5jYyIsICJpZCI6ICI0NmJmZGI1OS04M2M2LTQ3MTAtODc3ZS1jODA5YjVhOTBkZmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2RcdWRlODAgQExldHNHZXRWUE4gQEN5YmVyU2VjUGxheWdyb3VuZCB8IFx1ZDgzY1x1ZGYwZCBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZTkgSUQiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 trojan://idc117okt@103.226.139.201:443?security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇮🇩 ID
 trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇮🇩 ID
