@@ -6,6 +6,6 @@ vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=%2Fid-tksi&am
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.164.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.232.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
 vless://3ea0a12e-162e-45b8-b03b-c490d6105091@114.129.43.130:443?path=%2F&security=tls&encryption=none&insecure=0&host=wa2.mhrnet.com&fp=chrome&type=ws&allowInsecure=0&sni=wa1.mhrnet.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime04.workers.dev#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime04.workers.dev&path=%2F#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
 vless://b991b390-dd0f-4061-9150-bee0cb467bce@114.129.43.240:443?host=opu-ao6.pages.dev&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=opu-ao6.pages.dev&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
