@@ -10,5 +10,5 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443?encryption=none
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.156.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.84.179.114:443?security=tls&sni=da.ylks.xyz&type=ws&host=da.ylks.xyz&path=%2Fblue#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.23.168.120:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?security=tls&type=ws&path=/vless/&host=ul-mexico1.09vpn.com&packetEncoding=xudp&sni=ul-mexico1.09vpn.com&fp=chrome&encryption=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&fp=chrome&insecure=1&type=ws&host=ul-mexico1.09vpn.com&path=/vless/#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&allowInsecure=true&type=ws&path=/vless/&packetEncoding=xudp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?&security=tls&fp=chrome&type=ws&headerType=none&host=ul-mexico1.09vpn.com&path=%2Fvless%2F#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
