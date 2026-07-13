@@ -1,1 +1,1 @@
-vless://d163fc5b-1fce-4da5-b2a1-afbd8db81fb7@45.195.228.168:443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6ecdb111a4e57f94#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 VE
+vless://d163fc5b-1fce-4da5-b2a1-afbd8db81fb7@45.195.228.168:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&sid=6ecdb111a4e57f94#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 VE
