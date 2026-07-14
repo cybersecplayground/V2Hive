@@ -8,4 +8,4 @@ vmess://eyJhZGQiOiAiMTcyLjY0LjE5NS44MCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAi
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
 vless://2b3b9f3f-f8ca-4a97-f6e0-afcedfb7efb7@172.64.195.195:443?security=tls&sni=juzisg.zdzdzd.xyz&type=ws&host=juzisg.zdzdzd.xyz&path=%2Fjuzi&fp=chrome#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
-vless://f05dee05-99af-4918-8189-9c533bbf119a@64.176.8.103:443?encryption=none&fp=chrome&headerType=http&host=&path=/&pbk=am5XC3tzL6MpQoVhzH2VL_x9ToscGaYLORkcnKDKlEI&security=reality&sid=f72e&sni=www.yahoo.com&spx=/nCunMMSxS0IHEHh&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
+vless://f05dee05-99af-4918-8189-9c533bbf119a@64.176.8.103:443?encryption=none&fp=chrome&headerType=http&path=/&pbk=am5XC3tzL6MpQoVhzH2VL_x9ToscGaYLORkcnKDKlEI&security=reality&sid=f72e&sni=www.yahoo.com&spx=/nCunMMSxS0IHEHh&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
