@@ -1,1 +1,1 @@
-vless://ItsLegendaryking@193.35.18.189:443?security=reality&encryption=none&pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.zula.ir&sid=956e1be9#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LB
+vless://ItsLegendaryking@193.35.18.189:443?sni=www.zula.ir&amp;sid=8962ce45&amp;security=reality&amp;headerType=none&amp;encryption=none&amp;fp=random&amp;type=tcp&amp;pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&amp;flow=xtls-rprx-vision#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LB
