@@ -1,2 +1,2 @@
-vless://0033fda5-029e-4de3-acea-3bd45a1912e2@156.244.41.221:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=aws.amazon.com&amp;fp=chrome&amp;security=reality&amp;pbk=K195x6sAmXL2K_9fSwMsPR8uqYF7UISl1ehaTjNhEz0&amp;sid=#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 QA
+vless://0033fda5-029e-4de3-acea-3bd45a1912e2@156.244.41.221:443?encryption=none&amp;security=reality&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;sni=aws.amazon.com&amp;pbk=K195x6sAmXL2K_9fSwMsPR8uqYF7UISl1ehaTjNhEz0&amp;fp=chrome#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 QA
 vless://5c5a466e-f2e0-4211-8963-742afac24948@156.244.43.22:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 QA
