@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwemlhZWh0eGVkMXp0ZmQz@87.120.108.28:999#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LK
+vless://54d91bc3-a461-4458-a620-36f27f5d6975@87.120.108.150:443?encryption=none&type=grpc&serviceName=grpc-api-v2&mode=multi&security=reality&sni=www.amd.com&fp=firefox&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LK
