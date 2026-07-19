@@ -1,19 +1,19 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
-vmess://eyJhZGQiOiAiMjE2LjIzOC44Ny40NyIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZTgwIEBMZXRzR2V0VlBOIEBDeWJlclNlY1BsYXlncm91bmQgfCBcdWQ4M2NcdWRmMGQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIE1YIiwgInBvcnQiOiAyNzUwMiwgImlkIjogImI4MTU1Y2U0LTdlMDgtNGM0MC04MDBmLTg2NzEzMTJiNzEyNCIsICJhaWQiOiAiMCIsICJuZXQiOiAibm9uZSIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201?note=@FreeOnlineVPN#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
-trojan://bMJKkQZ1xHhlBjVo_wSiPUmCGRvEn@216.238.79.82:25121/?type=tcp&security=tls&sni=ya.ru#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.230:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+trojan://bMJKkQZ1xHhlBjVo_wSiPUmCGRvEn@216.238.79.82:25121/?type=tcp&security=tls&sni=ya.ru#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+vmess://eyJhZGQiOiAiMjE2LjIzOC44Ny40NyIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZTgwIEBMZXRzR2V0VlBOIEBDeWJlclNlY1BsYXlncm91bmQgfCBcdWQ4M2NcdWRmMGQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIE1YIiwgInBvcnQiOiAyNzUwMiwgImlkIjogImI4MTU1Y2U0LTdlMDgtNGM0MC04MDBmLTg2NzEzMTJiNzEyNCIsICJhaWQiOiAiMCIsICJuZXQiOiAibm9uZSIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 vmess://eyJhZGQiOiAiMjE2LjIzOC44Ni4xNTgiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGU4MCBATGV0c0dldFZQTiBAQ3liZXJTZWNQbGF5Z3JvdW5kIHwgXHVkODNjXHVkZjBkIFx1ZDgzY1x1ZGRmMlx1ZDgzY1x1ZGRmZCBNWCIsICJwb3J0IjogMzQ0NjAsICJpZCI6ICI5MGJlMjE0ZC0wNDhjLTRlYTItYTYwMi1iOGU0ZDRlNTFlMzYiLCAiYWlkIjogIjAiLCAibmV0IjogIm5vbmUiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVW1LS0FmZlhVVVhBR3F0cVJDMFY5@138.186.140.102:8443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 vless://328b97aa-fd7e-45ab-eac3-37bf18cdfdd9@216.238.66.237:8080?type=ws&security=none&path=%2F#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
-vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=&amp;type=tcp&amp;allowInsecure=0&amp;sni=qro-mx-01.fromblancwithlove.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.156.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443?encryption=none&security=tls&sni=qro-mx-01.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.156.11:80?&type=ws&headerType=none&host=Fastapi.Org&path=%2F#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 vless://4699142d-557d-4a01-8656-e6fa5c0db23e@89.35.154.62:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.gmx.com&amp;alpn=h2&amp;fp=chrome&amp;security=reality&amp;pbk=V_RWGX3SOMQfUeGow6fYH5-ondlRL0Iitg5YRbOvkE4&amp;sid=d8#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 vless://8f070170-8cb2-41a3-bf96-9aad92ecb3f8@188.240.230.50:443?type=tcp&security=reality&fp=chrome&pbk=WIK7bTkiEqF-AsQ8OSRaVhPLWzUFPGorq58RiTsiIAc&sni=discordapp.com&sid=bc9e8287&spx=%2F#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.23.168.120:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.84.179.114:443?security=tls&sni=da.ylks.xyz&type=ws&host=da.ylks.xyz&path=%2Fblue#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?security=tls&type=ws&path=/vless/&host=ul-mexico1.09vpn.com&packetEncoding=xudp&sni=ul-mexico1.09vpn.com&fp=chrome&encryption=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.23.168.120:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&type=ws&path=%2Fvless%2F&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?encryption=none&security=tls&sni=ul-mexico1.09vpn.com&allowInsecure=true&type=ws&path=/vless/&packetEncoding=xudp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 vless://d7ef94ae-fadb-475c-96aa-ec7cca879de1@89.35.154.217:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=androidcentral.com&amp;fp=random&amp;security=reality&amp;pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&amp;sid=#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 vless://f40e17fc-2718-4e4a-ac29-ba7e28dd3164@216.238.94.140:8880?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=t.codmgiftcp.com&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
