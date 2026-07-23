@@ -1,3 +1,2 @@
-vless://54d91bc3-a461-4458-a620-36f27f5d6975@87.120.108.150:443?sni=www.amd.com&type=grpc&serviceName=grpc-api-v2&fp=firefox&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LK
-vless://832ff777-8628-49c7-89e2-960fee0d3a6b@87.120.196.6:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9cOaMzMHP9qtPWKM84zayD5oIBO-0R8g14Py9JhCDQQ&sid=6ba8a379d30d24c2&sni=cloudflare.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LK
+vless://54d91bc3-a461-4458-a620-36f27f5d6975@87.120.108.150:443?&security=reality&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820&fp=firefox&sni=www.amd.com&type=grpc&serviceName=&mode=gun#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LK
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwemlhZWh0eGVkMXp0ZmQz@87.120.108.28:999#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LK
