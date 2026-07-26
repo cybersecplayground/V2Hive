@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 SK
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 SK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 SK
 vless://0df23c07-b289-4d65-822a-228478ca73bd@86.110.243.171:25449?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lK8UJ7XkqXleVOC3XQRYEeXdnC37GSwCj2qHZiW87C8&security=reality&sni=eh.vk.com&type=tcp<br/><br/>#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 SK
 vless://497631c4-a1a4-0083-a86a-f42873473bb6@196.245.152.34:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 SK
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.66.161.10:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZxJt0FNyLrIrrd4c1Uehe86Iqk0BBbKjbP1kEJxOAAg&security=reality&sid=0f26cb0528&sni=ya.ru&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 SK
