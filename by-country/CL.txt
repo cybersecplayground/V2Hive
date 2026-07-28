@@ -9,6 +9,6 @@ vless://2b3b9f3f-f8ca-4a97-f6e0-afcedfb7efb7@172.64.195.195:443?security=tls&sni
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.220.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
 vless://6f346289-e095-4b99-9304-416830c08e0a@64.176.23.205:8080?path=/t-me-V2RayyNGvpn&security=none&encryption=none&host=t.codmgiftcp.com&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@165.1.123.204:443?security=tls&sni=yq.ylks.us.kg&type=ws&path=%2F%3Fed#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@186.67.70.55:443?security=tls&sni=ja.ylks01.eu.org&type=ws&path=%2F%3Fproxyip#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@186.67.70.55:443?security=tls&sni=ja.ylks01.eu.org&type=ws&path=/?proxyip#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.205.145:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
 vless://f05dee05-99af-4918-8189-9c533bbf119a@64.176.8.103:443?encryption=none&fp=chrome&headerType=http&host=&path=/&pbk=am5XC3tzL6MpQoVhzH2VL_x9ToscGaYLORkcnKDKlEI&security=reality&sid=f72e&sni=www.yahoo.com&spx=/nCunMMSxS0IHEHh&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
