@@ -10,6 +10,5 @@ ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.45:43893#🚀 @
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.43:43893#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@62.212.239.44:33992#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
 vless://505a1a16-2c67-4cbb-a5db-acde6627660b@180.149.45.73:9010?security=reality&encryption=none&pbk=KN1iC4QtWi2hKbQ1zJerNck6YRGbIpzdLMn1C2hhQjs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e8b1541e7387ffba#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
-vless://a962e5f4-4bb7-4cf9-b32a-8d4e4f2aa805@az1.rebata.ir:2040?security=reality&type=tcp&headerType=none&path=&host=&sni=www.yahoo.com&fp=chrome&pbk=d00ZgCDuY5ncLM1aF9nocq5oBthFMFetgobyJ2qUTg4&sid=9634e9421a05e65f#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0anEwd1pBcjJXdzIxNW5qTUlqYXRS@94.20.56.155:8443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
+vless://a962e5f4-4bb7-4cf9-b32a-8d4e4f2aa805@az1.rebata.ir:2040?security=reality&amp;encryption=none&amp;pbk=d00ZgCDuY5ncLM1aF9nocq5oBthFMFetgobyJ2qUTg4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.yahoo.com&amp;sid=9634e9421a05e65f#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
 ss://YWVzLTI1Ni1jZmI6MzEzNTc3MTYxOQ@94.20.154.38:50000#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
