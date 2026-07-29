@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
 vless://a3ab68bd-e835-5129-b8c5-335a709e8b3f@185.83.127.82:443?mode=gun&security=reality&encryption=none&pbk=h9aR_LyBrt2_zfbJYMZAGqfjk4zumCVuwOXzrFJEK1A&fp=chrome&type=grpc&serviceName=grpc-play-7f3a92&sni=play.google.com&sid=5b3aa0bdbe8d6a0e#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.53:43893#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@180.149.44.120:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
 vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
@@ -10,4 +10,6 @@ ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.45:43893#🚀 @
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.43:43893#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@62.212.239.44:33992#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
 vless://505a1a16-2c67-4cbb-a5db-acde6627660b@180.149.45.73:9010?security=reality&encryption=none&pbk=KN1iC4QtWi2hKbQ1zJerNck6YRGbIpzdLMn1C2hhQjs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e8b1541e7387ffba#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
+vless://a962e5f4-4bb7-4cf9-b32a-8d4e4f2aa805@az1.rebata.ir:2040?security=reality&type=tcp&headerType=none&path=&host=&sni=www.yahoo.com&fp=chrome&pbk=d00ZgCDuY5ncLM1aF9nocq5oBthFMFetgobyJ2qUTg4&sid=9634e9421a05e65f#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0anEwd1pBcjJXdzIxNW5qTUlqYXRS@94.20.56.155:8443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
 ss://YWVzLTI1Ni1jZmI6MzEzNTc3MTYxOQ@94.20.154.38:50000#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AZ
