@@ -1,3 +1,1 @@
-vless://0033fda5-029e-4de3-acea-3bd45a1912e2@156.244.41.221:443?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=K195x6sAmXL2K_9fSwMsPR8uqYF7UISl1ehaTjNhEz0#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 QA
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@156.244.43.22:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 QA
-vless://f89b31c8-07f8-4aa3-f8f7-ae5172e03bd6@156.244.46.198:44746?allowInsecure=1&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 QA
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@156.244.43.22:443?flow=xtls-rprx-vision-udp443&fp=edge&security=tls&sni=r1.mizulina.top#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 QA

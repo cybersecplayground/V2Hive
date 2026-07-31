@@ -1,22 +1,7 @@
+trojan://humanity@202.37.33.80:443?host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@114.129.43.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-trojan://MiTiVPN@202.37.33.80:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl&security=tls&alpn=http/1.1&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.Maqror.ir&fp=chrome&type=ws&sni=ib-bbg--MiTiVPN---MiTiVPN-.Maqror.ir#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@114.129.43.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://13d3b44b-8e02-4669-88ba-497c8b00365e@202.37.33.81:443?type=tcp&encryption=none&security=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@114.129.43.123:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2&security=tls&sni=notls.lukongtou.eu.org&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
+vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=%2Fid-tksi&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=m.udemy.com.cyylr.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=m.udemy.com.cyylr.eu.cc#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.164.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.232.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://3ea0a12e-162e-45b8-b03b-c490d6105091@114.129.43.130:443?type=tcp&encryption=none&security=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@114.129.43.7:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@114.129.43.177:8880?type=ws&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@114.129.43.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime04.workers.dev&path=%2F#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://76636b35-e926-4b10-8336-c0d0c48a42b8@202.37.33.80:2096?allowInsecure=0&sni=ccffllyy.1412.me&type=ws&host=ccffllyy.1412.me&path=/?ed=2048fp=chrome&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@114.129.43.151:443?sni=cloudflare.dns.xn--q9jyb4c&fp=chrome&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@114.129.43.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@114.129.43.247:8880?allowInsecure=0&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@114.129.43.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@114.129.43.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@114.129.43.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
-vmess://eyJhZGQiOiAiMTcyLjIwNC44LjEwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjgxYmJjYTcwLWEzNWYtNDg3ZS04OGE0LThiZDU4NTZiMTBhNSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTUwIiwgInBzIjogIlx1ZDgzZFx1ZGU4MCBATGV0c0dldFZQTiBAQ3liZXJTZWNQbGF5Z3JvdW5kIHwgXHVkODNjXHVkZjBkIFx1ZDgzY1x1ZGYwZCBOWiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@103.231.91.226:1080#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
