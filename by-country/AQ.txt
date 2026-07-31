@@ -1,2 +1,2 @@
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@2.27.26.132:444?mode=gun&security=reality&encryption=none&authority=apple.com&pbk=dEhIR-YkvqguXB5_P3LMuyNYM82lMHQsSGhhtkmvE0k&fp=qq&type=grpc&serviceName=apple.com&sni=apple.com&sid=d7abeb515312dc2f#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AQ
+vless://141bbdef-a341-4846-aec7-9d6531ff8790@2.27.26.132:444?type=tcp&encryption=none&security=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AQ
 vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@2.27.26.140:443?sni=aq.cdn-global.pro&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AQ

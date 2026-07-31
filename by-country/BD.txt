@@ -1,1 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.42.7:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 BD
+vless://0c6b1c34-3ab0-408e-aa4b-49c7c7ac72bb@45.8.21.119:12345?security=none&encryption=none&host=uplod.ir&headerType=http&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 BD
+vless://67731ebf-a187-4509-bcce-69e77f89d4ef@45.8.21.229:57012?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;type=grpc&amp;serviceName=@Bug_vpn#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 BD
+vless://8e944e35-e17b-4ecb-8879-f62a2c4cf546@45.8.21.26:443?sni=gift-4101664.FaraSorat.Net&type=ws&host=Turkey1.FaraSorat.net&path=/pV67LRFs428xHke56mDQflow=-udp443&fp=&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 BD
