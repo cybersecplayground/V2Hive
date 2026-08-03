@@ -1,21 +1,21 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.155.31.105:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443?#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.48.78:1080#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.155.31.105:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUnJCZzlTOWtvc1NvM3RH@20.223.136.145:443?type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqR21sTEcyM0ZkTVZ0d0Fx@4.210.66.168:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
+vless://c8bc9e80-b5f3-4794-9b52-7be14118cbd8@rezeroooo3-hollowcon2.hf.space:443?encryption=none&security=tls&sni=rezeroooo3-hollowcon2.hf.space&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rezeroooo3-hollowcon2.hf.space&path=/ws/c8bc9e80-b5f3-4794-9b52-7be14118cbd8#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV3NGTjE4dW5RZWdVS25Y@23.100.56.187:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
 ss://chacha20-ietf-poly1305:dNJkXSaaUL3JWz4b@20.107.197.108:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-vmess://eyJhZGQiOiAiNDUuMTMxLjI0OC4xNDAiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjU1N2U1MzJlLWRlNGEtNGIzZS05ZmIyLTVkMzU1Y2NiNWRhOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA1MDA2OCwgInBzIjogIlx1ZDgzZFx1ZGU4MCBATGV0c0dldFZQTiBAQ3liZXJTZWNQbGF5Z3JvdW5kIHwgXHVkODNjXHVkZjBkIFx1ZDgzY1x1ZGYwZCBJRSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eGtHQ1lrcm01UXhWZ0JW@68.219.96.61:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.133:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-trojan://telegram-id-directvpn@52.16.85.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-vless://c8bc9e80-b5f3-4794-9b52-7be14118cbd8@rezeroooo3-hollowcon2.hf.space:443?encryption=none&security=tls&sni=rezeroooo3-hollowcon2.hf.space&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rezeroooo3-hollowcon2.hf.space&path=/ws/c8bc9e80-b5f3-4794-9b52-7be14118cbd8#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-trojan://telegram-id-directvpn@34.241.207.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqR21sTEcyM0ZkTVZ0d0Fx@4.210.66.168:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-trojan://humanity@50.7.4.243:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUnJCZzlTOWtvc1NvM3RH@20.223.136.145:443?type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 135 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.48.78:1080#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV3NGTjE4dW5RZWdVS25Y@23.100.56.187:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@dev-ops-notes.blog:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5qYuPXdx_1i6bBOUJRKCSv2vBxdWxSZcct_Cxd-W0hc&security=reality&sid=65c55164c5e88da1&sni=dev-ops-notes.blog&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
+trojan://humanity@50.7.4.243:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
+trojan://telegram-id-directvpn@52.16.85.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
+trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 135 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.133:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
+vmess://eyJhZGQiOiAiNDUuMTMxLjI0OC4xNDAiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjU1N2U1MzJlLWRlNGEtNGIzZS05ZmIyLTVkMzU1Y2NiNWRhOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA1MDA2OCwgInBzIjogIlx1ZDgzZFx1ZGU4MCBATGV0c0dldFZQTiBAQ3liZXJTZWNQbGF5Z3JvdW5kIHwgXHVkODNjXHVkZjBkIFx1ZDgzY1x1ZGYwZCBJRSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 trojan://S896mMChk5@54.247.123.33:1935?security=tls&sni=x1-ireland-amazon-v2.devefun.cloud&type=tcp&fp=chrome&allowInsecure=1#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
 vmess://eyJhZGQiOiAiMTg1LjEwOC4xMjguMTM3IiwgImFpZCI6IDY0LCAiaG9zdCI6ICJ3d3cuMTQ2MDExNzYueHl6IiwgImlkIjogIjVhYWIzOTM2LTE2ZDctNDM3Ny04YzMzLTBkNzdmMmQyOTVlZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8zMDAwMjIxMTMzMjkiLCAicG9ydCI6IDMwMDAwLCAicHMiOiAiXHVkODNkXHVkZTgwIEBMZXRzR2V0VlBOIEBDeWJlclNlY1BsYXlncm91bmQgfCBcdWQ4M2NcdWRmMGQgXHVkODNjXHVkZjBkIElFIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogInd3dy4xNDYwMTE3Ni54eXoifQ==
 ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzc=@146.70.90.196:17454#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
@@ -51,7 +51,6 @@ vless://c9399d16-a0ae-451a-d069-39280bc363f4@52.19.138.237:8443?&security=tls&fp
 vmess://eyJhZGQiOiAiMTA0LjE2MC4xOS4yMiIsICJhaWQiOiAxLCAiaG9zdCI6ICJkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbSIsICJpZCI6ICJlZmI3NDhlYy1jOTIxLTQyYTEtYWM5ZS0xZDU0ODVkNmM0NDciLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rvd25sb2FkIiwgInBvcnQiOiA4MDgwLCAicHMiOiAiXHVkODNkXHVkZTgwIEBMZXRzR2V0VlBOIEBDeWJlclNlY1BsYXlncm91bmQgfCBcdWQ4M2NcdWRmMGQgXHVkODNjXHVkZjBkIElFIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIn0=
 vmess://eyJhZGQiOiAiMTg1LjEwOC4xMjguNTciLCAiYWlkIjogNjQsICJob3N0IjogInd3dy4xNDYwMTE3Ni54eXoiLCAiaWQiOiAiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE5MTAxOTA3MjkyNyIsICJwb3J0IjogMzAwMDAsICJwcyI6ICJcdWQ4M2RcdWRlODAgQExldHNHZXRWUE4gQEN5YmVyU2VjUGxheWdyb3VuZCB8IFx1ZDgzY1x1ZGYwZCBcdWQ4M2NcdWRmMGQgSUUiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Vk5YOUxEdTZmcEVsWExp@20.107.201.69:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eGtHQ1lrcm01UXhWZ0JW@68.219.96.61:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3a3hZVjhmYUxLRnk4cTFT@98.71.81.64:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGOUV2YUs1MmZ3S2JROExm@40.112.71.34:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaejV3Y1hpYzU4RmlxWW1Q@74.234.78.179:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IE
