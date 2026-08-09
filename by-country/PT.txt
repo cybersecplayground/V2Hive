@@ -10,4 +10,3 @@ vless://33a31dc6-6bbc-46c0-9685-fb5e327d3c7d@152.233.62.135:443?type=tcp&securit
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.88.11:80?type=ws&host=Fastapi.Org&path=%2F#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT
 vless://4b90796f-8973-467e-966b-54319b064ee9@104.22.13.192:2053?security=tls&type=ws&sni=weidokxdjifmdmnr0tcjnisdx.bale.bio&path=/backup&encryption=none&headerType=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT
 vless://555a098f-06db-427c-a535-4ba284046dbf@93.119.168.26:63443?&type=tcp&headerType=none&path=%2F#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT
-vless://ad8d6bc3-7540-459e-a75a-1febfa413f78@104.22.13.192:2082?type=ws&host=C1.unique69.com&path=/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel/@SevenVpnChannel#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT

@@ -1,1 +1,1 @@
-vless://mahanvpn-mahanvpn@92.42.96.240:443?encryption=none&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&insecure=0&allowInsecure=0&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ME
+vless://mahanvpn-mahanvpn@92.42.96.240:443?sni=mAhaNrEaliteAm.MaHkHan.iR&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/?ed=2560fp=chrome&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ME
