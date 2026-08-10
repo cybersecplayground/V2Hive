@@ -1,2 +1,1 @@
-vless://d163fc5b-1fce-4da5-b2a1-afbd8db81fb7@45.195.228.168:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&sid=6ecdb111a4e57f94#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 VE
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@156.236.142.189:8388#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 VE
+vless://d2042070-c247-4226-a3ac-15337923e00d@45.195.228.26:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sni=storage.yandex.net&sid=f45c9665f3261108#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 VE
