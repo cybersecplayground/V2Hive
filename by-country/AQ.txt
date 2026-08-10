@@ -1,2 +1,1 @@
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@2.27.26.132:444?type=tcp&encryption=none&security=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AQ
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@2.27.26.140:443?sni=aq.cdn-global.pro&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AQ
+vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@2.27.26.140:443?encryption=none&type=tcp&security=reality&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&sid=90f9d05bf95cb335&sni=aq.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 AQ
