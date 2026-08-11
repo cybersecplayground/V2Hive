@@ -5,3 +5,4 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@114.129.43.251:8880/?type=ws&encryp
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.164.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.232.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime04.workers.dev&path=%2F#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
+vless://f3ac6161-3592-43ed-82f2-daf9c97806aa@192.245.185.13:443?security=tls&type=grpc&mode=gun&serviceName=ov146.ochmaybrooooo.online&alpn=http/1.1&sni=ov146.ochmaybrooooo.online&fp=chrome#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 NZ
