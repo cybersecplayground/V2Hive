@@ -4,20 +4,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.227.99.168:8880/?type=ws&encryp
 trojan://NISHIKUITAN111@193.227.99.226:443/?type=tcp&security=tls #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@193.227.99.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@193.227.99.234:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-vless://0a2973c7-330d-4824-b695-6d7edd4b9770@172.64.204.213:443?encryption=none&security=tls&sni=woiden4.danfeng.cf&type=ws&host=woiden4.danfeng.cf&path=%2ffgfwws%3fed%3d2048#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-vless://1633b472-dfce-48e7-a89d-de502494f9f3@193.227.99.54:2082?path=%2Foopksl%3F&security=none&encryption=none&host=sss.jorzel.ir&type=httpupgrade#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@193.227.99.148:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.rocks&type=ws&allowInsecure=0&sni=sni.111000.v6.rocks#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-vless://2321a662-adbb-49b6-9c3d-51fcef59c70d@193.227.99.66:8443?security=tls&sni=ch.donaldvpn.sbs&type=grpc&fp=chrome&alpn=h2,http/1.1#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.227.99.109:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.227.99.90:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-vless://3d164933-17d7-4ee1-8a99-9be47536d132@193.227.99.54:8880?path=%2F250e&security=none&encryption=none&host=jskskssmznpp.serendpiti.ir&type=httpupgrade#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-vless://3d164933-17d7-4ee1-8a99-9be47536d132@193.227.99.54:2052?path=%2Foopksl%3F&security=none&encryption=none&host=banjog.lorqino.ir&type=httpupgrade#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@193.227.99.7:8443?security=tls&type=ws&path=/dula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.204.97:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
+vless://a733d1a0-6321-46ab-b525-f9da2b44b9c2@193.227.99.54:8880?encryption=none&security=none&type=httpupgrade&host=bgphajik.lorqino.ir&path=mmd#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@193.227.99.124:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@193.227.99.249:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.227.99.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-vmess://eyJhZGQiOiAiMTcyLjY0LjIwNC4xMDEiLCAiYWlkIjogMCwgImhvc3QiOiAiYnhhLjc2ODk4MTAyLnh5eiIsICJpZCI6ICI2ZTEzZmYwYi01NWE2LTM3NjctOGI5Mi0zMDk4ZmRhNDA5MjciLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2J4cW1pYW8iLCAicG9ydCI6IDIwNTIsICJwcyI6ICJcdWQ4M2RcdWRlODAgQExldHNHZXRWUE4gQEN5YmVyU2VjUGxheWdyb3VuZCB8IFx1ZDgzY1x1ZGYwZCBcdWQ4M2NcdWRmMGQgTVQiLCAic2N5IjogImF1dG8iLCAidGxzIjogIiIsICJ2IjogIjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-ss://aes-256-cfb:f8f7aCzcPKbsF8p3@185.89.238.36:989#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
