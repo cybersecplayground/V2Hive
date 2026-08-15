@@ -1,1 +1,2 @@
 vless://d2042070-c247-4226-a3ac-15337923e00d@45.195.228.192:443?security=reality&type=tcp&packetEncoding=none&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=6ecdb111a4e57f94&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 VE
+vless://d2042070-c247-4226-a3ac-15337923e00d@45.195.228.26:443?allowInsecure=0&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 VE
