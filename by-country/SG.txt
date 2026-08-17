@@ -1,2 +1,4 @@
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇸🇬 SG
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?security=tls&type=ws&path=/&host=workspace.evan00.dpdns.org&packetEncoding=xudp&sni=workspace.evan00.dpdns.org&fp=chrome#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇸🇬 SG
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&headerType=&type=tcp&sni=www.nintendogames.net#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇸🇬 SG
+vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@172.67.118.45:443?type=ws&security=tls&sni=zero.csmaster.ggff.net&fp=chrome&path=%2F&host=zero.csmaster.ggff.net#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇸🇬 SG
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇸🇬 SG

@@ -1,8 +1,2 @@
-trojan://ND91608427@15.237.137.197:443?security=tls&sni=fancy-skink.rooster465.autos#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇫🇷 FR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇫🇷 FR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q@38.180.92.242:32245#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇫🇷 FR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇫🇷 FR
-vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇫🇷 FR
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@millionaire.levikogjgfdd.ir:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇫🇷 FR
+vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?security=reality&encryption=none&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=59625eb3275249ca#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇫🇷 FR
 trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇫🇷 FR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇫🇷 FR
