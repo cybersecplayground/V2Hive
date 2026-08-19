@@ -1,6 +1,6 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@171.22.254.17:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@171.22.254.129:990#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
 vless://f9a8edf6-9dda-4f5c-9268-03fb883fc6b2@cd3.videobazi.com:8443?encryption=mlkem768x25519plus.native.0rtt.XlifjE4f4QdfmdtLmXhWfzh2duNCrsGHTbR_qQZm6GM&security=tls&type=xhttp&headerType=none&path=/nHbagava&host=cdvn.jorgotr.ir&mode=auto&sni=cdvn.jorgotr.ir#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@171.22.254.129:990#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@171.22.254.17:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.227.99.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
 trojan://NISHIKUITAN111@193.227.99.226:443/?type=tcp&security=tls #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@193.227.99.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MT
