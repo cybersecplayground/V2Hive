@@ -1,7 +1,7 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.229.28:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.143.32:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
-vless://055dce30-0ee3-44c3-b680-be1c95b8d6e7@107.151.250.68:443?allowInsecure=0&sni=www.bing.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.143.32:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.229.28:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
+vless://055dce30-0ee3-44c3-b680-be1c95b8d6e7@107.151.250.68:443?flow=xtls-rprx-vision&security=tls&sni=www.bing.com&fp=firefox&pbk=g5UW6bf2soPSDNx7j0wanW_uLAtvTgQ8_lfztTJaP0k&sid=7025c954ff913b4c&type=tcp&path=/#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
 vless://055dce30-0ee3-44c3-b680-be1c95b8d6e7@sfsk-tuq150.consultra.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=g5UW6bf2soPSDNx7j0wanW_uLAtvTgQ8_lfztTJaP0k&security=reality&sid=7025c954ff913b4c&sni=www.bing.com&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.228.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
-vless://4caaaae0-516b-4026-b2b2-69fea69df19a@5r86-tuq187.operix.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=LDpWYUJjGRJomvaN-gfgY96EJOF2DDHiFcNPEBLtoW0&sid=9019bbea8ff8781e&type=tcp&headerType=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
+vless://4caaaae0-516b-4026-b2b2-69fea69df19a@5r86-tuq187.operix.top:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.bing.com&fp=chrome&pbk=LDpWYUJjGRJomvaN-gfgY96EJOF2DDHiFcNPEBLtoW0&sid=9019bbea8ff8781e#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
