@@ -1,1 +1,1 @@
-vless://7e8825a4-86ac-486f-a06c-0917ced9dfcd@85.239.149.127:443?security=reality&encryption=none&pbk=DXTYisFKUru131HMeU2no0Z8OJs1c1xHAqVyNy6xvBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nrt.deurocket.org#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CM
+vless://7e8825a4-86ac-486f-a06c-0917ced9dfcd@85.239.149.127:443?security=reality&encryption=none&pbk=DXTYisFKUru131HMeU2no0Z8OJs1c1xHAqVyNy6xvBw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nrt.deurocket.org#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CM
