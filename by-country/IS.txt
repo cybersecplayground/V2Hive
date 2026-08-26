@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=1&type=tcp&headerType=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
 vless://203c2146-6620-4a5e-836c-7af5c75c9325@185.246.191.135:2053?mode=gun&security=reality&encryption=none&pbk=7zv-3bWzr0wwe4vy1Z_35V-cLXjH07cSRuOw8tcX4wk&fp=firefox&type=grpc&serviceName=grpc&sni=www.intel.com&sid=9c#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
