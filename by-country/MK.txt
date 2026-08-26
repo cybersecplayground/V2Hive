@@ -2,6 +2,12 @@ vless://62e18440-148d-4b82-8a14-160c35144ffd@89.185.82.64:19771?path=/&security=
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MK
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MK
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@185.225.28.85:47121#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MK
+vless://18a056b9-6591-45b4-bace-52667b18f8c1@38.99.95.76:4655?security=none&encryption=none&headerType=none&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MK
 vless://22419260-5475-49d8-a29c-01905c54d1b8@195.144.24.37:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BSPkA0yUFBZ7JS7rD69rLaTn_5QSAaPQZtO7HV_et30&sid=b868b87c347a451e&sni=mk1.cdn-global.pro#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MK
 vless://76be2b92-8010-4ebd-8c94-8d778fb92311@195.144.24.145:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=Q0351ApYOgCGCOgSEROnacDdm7xp-kLs9mYddSDFwRQ&sid=360881fdb193758d&sni=www.twitch.tv&spx=/#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MK
+vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@195.144.24.84:443?flow=xtls-rprx-vision&fp=firefox&pbk=PCF6GYA_TCdb28mM6zsxJ38MAtmnSrJJEygkXvrt1AE&security=tls&sid=b512d49930874a31&sni=cdn-mk.ai-apiroute.cc#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.185.37:990#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdEFYa3NwS0tnOWJvd290WUc3NFh5@45.153.126.14:8443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MK
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmVHBBaEdHUEIyZ2JPd0pvWEpscnVk@46.183.185.42:8443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmekZ5YU15Tk1zY245OGRvdHZDNlFq@46.183.185.67:8443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MK

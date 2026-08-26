@@ -1,2 +1,1 @@
-vless://3bbacc1e-8b36-467b-8b81-27ad9578b6bc@170.168.7.63:443?type=tcp&encryption=none&security=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CW
-vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@170.168.7.252:443?sni=cloudflare.dns.xn--q9jyb4c&fp=chrome&security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CW
+vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@170.168.7.63:443?security=tls&type=xhttp&path=/xn--q9jyb4c&host=cloudflare.dns.xn--q9jyb4c&sni=cloudflare.dns.xn--q9jyb4c&fp=chrome&mode=packet-up&extra={%22xPaddingBytes%22:%22100-1000%22}&encryption=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CW

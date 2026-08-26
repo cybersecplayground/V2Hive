@@ -1,1 +1,5 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@156.244.43.22:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 QA
+vless://0033fda5-029e-4de3-acea-3bd45a1912e2@156.244.41.221:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=aws.amazon.com&amp;fp=chrome&amp;security=reality&amp;pbk=K195x6sAmXL2K_9fSwMsPR8uqYF7UISl1ehaTjNhEz0&amp;sid=#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 QA
+vless://5c5a466e-f2e0-4211-8963-742afac24948@156.244.43.22:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 QA
+vless://70d73194b3424d7c826dcf2d3ad3adff@156.244.43.252:443?flow=xtls-rprx-vision&fp=chrome&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&security=reality&sid=96e03e0f184639ef&sni=www.asus.com&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 QA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@20.21.186.71:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 QA
+ss://YWVzLTEyOC1nY206NTBjV01yOUtia2VnREM5aEhaUE5Bdw==@20.173.66.64:1080#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 QA
