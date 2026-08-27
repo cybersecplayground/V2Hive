@@ -1,5 +1,5 @@
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@152.233.62.135:9443?type=grpc&security=reality&fp=chrome&pbk=kUuy5M4V5bfjri7m_XBryv1YTLLlPLPIwPotJJgpgEc&sid=87922049&sni=api-maps.yandex.ru&serviceName=grpc#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.88.11:80?type=ws&host=Fastapi.Org&path=/#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@152.233.62.135:9443?type=grpc&security=reality&fp=chrome&pbk=kUuy5M4V5bfjri7m_XBryv1YTLLlPLPIwPotJJgpgEc&sid=87922049&sni=api-maps.yandex.ru&serviceName=grpc#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.113.143.186:990#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT
 ss://YWVzLTI1Ni1nY206c3V1Y1NlVkxtdDZQUUtBUDc3TnRHdzl4@91.250.240.148:49339#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT
