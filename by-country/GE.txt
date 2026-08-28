@@ -20,3 +20,4 @@ vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@206.53.48.65:443?&security=tls&fp=c
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2082?security=none&encryption=none&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 GE
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@77.91.73.188:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 GE
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@77.91.73.188:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 GE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@77.91.75.144:57456#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 GE
