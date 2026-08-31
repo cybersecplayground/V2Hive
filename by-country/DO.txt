@@ -1,1 +1,1 @@
-vless://87cd21c8-5366-4837-8a9d-a70d4c440336@181.36.229.212:443?type=ws&security=tls&path=/Free-VPN-CF-Geo-Project/181.36.229.212=443&sni=joss.krukkruk.web.id&fp=randomized#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@181.36.229.212:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=/#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
