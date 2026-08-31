@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.229.28:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.143.32:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.229.28:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.228.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
 vless://4caaaae0-516b-4026-b2b2-69fea69df19a@107.151.250.183:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bing.com&fp=chrome&security=reality&pbk=LDpWYUJjGRJomvaN-gfgY96EJOF2DDHiFcNPEBLtoW0&sid=9019bbea8ff8781e#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PE
