@@ -11,3 +11,4 @@ vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.88.11:80?type=ws&host=Fastap
 vless://4b90796f-8973-467e-966b-54319b064ee9@104.22.13.192:2053?security=tls&type=ws&sni=weidokxdjifmdmnr0tcjnisdx.bale.bio&path=/backup&encryption=none&headerType=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT
 vless://555a098f-06db-427c-a535-4ba284046dbf@93.119.168.26:63443?&type=tcp&headerType=none&path=%2F#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@152.233.62.135:9443?type=grpc&security=reality&fp=firefox&pbk=kUuy5M4V5bfjri7m_XBryv1YTLLlPLPIwPotJJgpgEc&sid=87922049&sni=api-maps.yandex.ru&serviceName=grpc#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT
+vless://aa6b9a9d-84d4-49e5-93f7-90404b112634@93.119.168.18:1280?security=none&amp;type=ws&amp;headerType=&amp;path=%2F&amp;host=#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 PT
