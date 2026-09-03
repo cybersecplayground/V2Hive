@@ -1,4 +1,4 @@
-vless://42d9e4a1-e90f-4f8d-b8cd-aadb3513898a@217.11.164.92:37430?type=tcp&encryption=none&security=reality&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 GE
+vless://d20be48f-6317-4350-858b-d00929bdefc1@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=chrome&spx=/&type=tcp&sni=amp-api-edge.apps.apple.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 GE
 vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@2.27.27.202:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ray-balance.space&fp=chrome&security=reality&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&sid=#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 GE
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.201:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 GE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU2g1YW9RZGNYMG5aWENBSDV5Rjc1@77.91.101.132:43458#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 GE
