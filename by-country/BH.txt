@@ -4,3 +4,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.92.149:443 #�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.118.59:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 BH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.166.103:443 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 BH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.179.92:443 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 BH
+vless://2de2b89e-6488-4100-b9ae-bff4c288c61a@194.33.28.15:8008?security=none&amp;encryption=none&amp;host=nobitex.ir&amp;headerType=http&amp;type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 BH
