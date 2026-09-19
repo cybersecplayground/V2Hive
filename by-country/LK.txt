@@ -1,1 +1,2 @@
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@87.120.196.15:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swe04.skorostnet.space&fp=firefox&security=reality&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LK
+vless://5561acfb-0adc-4c76-bfbf-767a76c7cbf0@87.120.196.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=holo-stream.videocactus.xyz&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LK
