@@ -1,1 +1,1 @@
-vless://1a9f25d4-3a3d-439a-94fe-50d4cfbba218@kinoveh6.komediyatorg.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=kinoveh6.komediyatorg.net&fp=chrome&insecure=0#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 VI
+vless://b3e950f6-b446-4fe1-808b-29e10a1c2479@2.27.26.31:443?path=%2Fmedia%2Fws%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=safari&amp;type=ws&amp;allowInsecure=0&amp;sni=lanepromo.bezl-self.co.uk#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 VI
