@@ -1,1 +1,1 @@
-vless://b3e950f6-b446-4fe1-808b-29e10a1c2479@2.27.26.31:443?path=%2Fmedia%2Fws%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=safari&amp;type=ws&amp;allowInsecure=0&amp;sni=lanepromo.bezl-self.co.uk#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 VI
+vless://b3e950f6-b446-4fe1-808b-29e10a1c2479@2.27.26.31:443?path=/media/ws/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=lanepromo.bezl-self.co.uk#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 VI
