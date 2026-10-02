@@ -7,11 +7,4 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@62.72.166.177:8880/?type=ws&encrypt
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@62.72.166.143:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 vless://401374e6-df77-41fb-f638-dad8184f175b@62.72.166.15:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.9#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
-ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?path=%2F%3Fed%3D2560%26&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
-ss://42add63b-deda-4e71-aa48-ddd288181858@62.72.166.40:443?encryption=none&security=tls&sni=edtunnel-eiz.pages.dev&type=ws&host=edtunnel-eiz.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
-ss://42add63b-deda-4e71-aa48-ddd288181858@62.72.166.41:443?encryption=none&security=tls&sni=edtunnel-eiz.pages.dev&type=ws&host=edtunnel-eiz.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
-ss://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@62.72.166.8:443?host=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&path=%2F&security=tls&sni=gj2rf.mlrb.tyr.hh.vavava.kdns.fr&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.138:2096?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.30:8880?fp=chrome&host=vms.lifetime40.workers.dev&path=%2F&security=false&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWJmMDU0ZGNjMDM0MmNk@91.106.109.74:11201#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTVlZTNjNjJmMGFhZTk2@91.106.109.73:11201#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.138:2096?security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 JO
