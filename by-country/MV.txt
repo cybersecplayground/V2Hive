@@ -1,1 +1,2 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.85.99.37:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MV
+vless://0132a95b-c439-4396-82ae-13e27e865f0d@154.85.99.106:8080?type=httpupgrade&security=none&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MV
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@154.85.99.254:8880?type=ws&security=none&path=/#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 MV
