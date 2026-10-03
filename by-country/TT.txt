@@ -1,2 +1,2 @@
-vless://79191f27-9a9d-42e4-9d04-5f680ab361dc@104.22.75.105:2083?security=tls&type=ws&sni=kingofilter.hamedgeek.sbs&path=/&encryption=none&headerType=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 TT
-vless://b13a9e91-60c6-4fab-a982-2db41b13947a@104.22.75.142:80?security=&fp=chrome&type=ws&path=/backup&host=Ir18U8.CDNMCi.sItE&encryption=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 TT
+vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@104.22.59.149:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 TT
+vless://e1d98310-db5a-4279-bbf7-760902b4af0b@104.22.59.100:443?security=tls&sni=2576.papala.filegear-sg.me&type=ws&host=2576.papala.filegear-sg.me&path=%2F%3Fed%3D2560&fp=randomized#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 TT
