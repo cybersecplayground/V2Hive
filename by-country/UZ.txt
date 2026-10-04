@@ -1,4 +1,4 @@
-vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 UZ
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&security=none&encryption=none&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 UZ
 vless://497631c4-a1a4-45ff-a86a-f42873473bb6@81.162.54.249:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 UZ
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@46.8.194.76:2053?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 UZ
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@46.8.194.76:8443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 UZ
