@@ -1,5 +1,1 @@
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@181.36.229.212:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2053?&security=tls&fp=chrome&sni=linek.perry.us.kg&type=ws&headerType=none&host=linek.perry.us.kg&path=%2Fuploads%2Fitem#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2083?&security=tls&fp=chrome&sni=linek.perry.us.kg&type=ws&headerType=none&host=linek.perry.us.kg&path=%2Fgo.php#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2087?&security=tls&fp=chrome&sni=linek.perry.us.kg&type=ws&headerType=none&host=linek.perry.us.kg&path=%2Fplaylist%2Fabout%2Fjump.php#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:8443?&security=tls&fp=chrome&sni=linek.perry.us.kg&type=ws&headerType=none&host=linek.perry.us.kg&path=%2Fgames%2Fm%2Fmag#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@181.36.229.212:443?encryption=none&fp=firefox&host=x.m-90.xyz&path=t.me/TEAMNETGRATISCOL&security=tls&sni=x.m-90.xyz&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 DO
