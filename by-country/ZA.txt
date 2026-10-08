@@ -1,22 +1,22 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSnRDZmpQSUhuTEN6RGlh@20.164.205.35:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUnJhRTF5TEM4TFJxbWVi@20.164.42.112:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEM1FaeUtBOWp0TGVrdFRO@20.87.209.138:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZkFjUmlrYXdoTm9aQWh1@139.84.247.164:8388#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNlVxQWI0MTMweWNNN3FN@20.164.212.146:443?type=tcp&headerType=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
-vless://365de9e9-ba29-0004-af2d-766f9638e3be@192.142.12.175:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
-vmess://eyJhZGQiOiAiMTAyLjE3Ny4xODkuMTAxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyLlNob21hUGFydmF6Um9ZYWRldG9uTmlzdC1CeXBhc3NJc0hlcmUubGF0IiwgImlkIjogIjhmNzRlYzhhLTk3MWMtMTFlZC1hOGZjLTAyNDJhYzEyMDAwMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyP2VkPTIzNjUiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZTgwIEBMZXRzR2V0VlBOIEBDeWJlclNlY1BsYXlncm91bmQgfCBcdWQ4M2NcdWRmMGQgXHVkODNjXHVkZjBkIFpBIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICI0ZmMxMjhjZS00ODQ1LTExZjAtYTk0OC02YTc1ZjY2N2I0NzIuU2hvbWFQYXJ2YXpSb1lhZGV0b25OaXN0LUJ5cGFzc0lzSGVyZS5sYXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?sni=platform107.halalkhor.info&type=ws&host=platform107.halalkhor.info&path=/platform107#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?encryption=none&type=ws&path=/platform108&host=platform108.halalkhor.info&sni=platform108.halalkhor.info#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNlVxQWI0MTMweWNNN3FN@20.164.212.146:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
 vless://2feda6f7-8baa-4591-a851-1e2037a58572@109.121.44.61:443?security=reality&encryption=none&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=s3-m.perecmusic.ru&sid=4a1b0c7d#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZkFjUmlrYXdoTm9aQWh1@139.84.247.164:8388#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUnJhRTF5TEM4TFJxbWVi@20.164.42.112:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSnRDZmpQSUhuTEN6RGlh@20.164.205.35:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEM1FaeUtBOWp0TGVrdFRO@20.87.209.138:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYmt5ckt2T3RmU2QyeFFi@20.164.220.189:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTQnc1YjZFOW5vSG9sQmRB@4.168.234.190:443?#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+vless://365de9e9-ba29-0004-af2d-766f9638e3be@192.142.12.175:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWTk0Q0w4SG91VXdFUEYz@4.168.234.5:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?encryption=none&type=ws&path=/platform108&host=platform108.halalkhor.info&sni=platform108.halalkhor.info#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?sni=platform107.halalkhor.info&type=ws&host=platform107.halalkhor.info&path=/platform107#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
+vmess://eyJhZGQiOiAiMTAyLjE3Ny4xODkuMTAxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyLlNob21hUGFydmF6Um9ZYWRldG9uTmlzdC1CeXBhc3NJc0hlcmUubGF0IiwgImlkIjogIjhmNzRlYzhhLTk3MWMtMTFlZC1hOGZjLTAyNDJhYzEyMDAwMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyP2VkPTIzNjUiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZTgwIEBMZXRzR2V0VlBOIEBDeWJlclNlY1BsYXlncm91bmQgfCBcdWQ4M2NcdWRmMGQgXHVkODNjXHVkZjBkIFpBIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICI0ZmMxMjhjZS00ODQ1LTExZjAtYTk0OC02YTc1ZjY2N2I0NzIuU2hvbWFQYXJ2YXpSb1lhZGV0b25OaXN0LUJ5cGFzc0lzSGVyZS5sYXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R20xc2RDU1JXQjQ2Q3JP@20.164.45.116:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=none&encryption=none&type=ws&host=jp.laoyoutiao.link&path=/#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
@@ -53,5 +53,4 @@ vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?security=reality&
 vless://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?security=none&encryption=none&headerType=none&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
 vmess://eyJhZGQiOiAiMTYwLjExNS4xOTMuOTkiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiODQxMzRkOTAtZTRmZS00YTg2LWM4ZDYtNGQ3YmVkYjNjMzMzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogNjAyMjIsICJwcyI6ICJcdWQ4M2RcdWRlODAgQExldHNHZXRWUE4gQEN5YmVyU2VjUGxheWdyb3VuZCB8IFx1ZDgzY1x1ZGYwZCBcdWQ4M2NcdWRmMGQgWkEiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAiemEtYS16enkuZ2xueWhsZ2MuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1NTgzYWY1MC1mNDY0LTRkZjYtZTJlZi0zNDU5MjMxMWU1YzYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYWJvdXQvNzY3OCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRlODAgQExldHNHZXRWUE4gQEN5YmVyU2VjUGxheWdyb3VuZCB8IFx1ZDgzY1x1ZGYwZCBcdWQ4M2NcdWRmMGQgWkEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpReTdLeU1vNGVwU0NpbHVK@20.164.220.82:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWGhOeGlqQXZ5S0prbEM4@20.87.212.8:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 ZA
