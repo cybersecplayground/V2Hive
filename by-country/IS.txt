@@ -1,10 +1,5 @@
-vless://16a946fa-6ea8-48a6-915a-d9028b97b45a@ed6b.zavqeron.ir:33234?encryption=none&security=reality&type=tcp&headerType=none&sni=www3.velqixa.ir&fp=chrome&pbk=psDbYkVscfXXlPKTGdQuC-TMCUvBSWhisaei8lXJvi8&sid=0642d8c6d9c9582b#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
-vless://fbaa413d-2ffb-4e36-8444-e1b1ab829fe1@188.241.54.208:443?security=reality&encryption=none&pbk=qlVZ2ehdXHCxIADkf5swgXT2ZHrpSP7HM6SKTBMQXRU&host=/?TELEGRAM---V2ray_confiig&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=456bf62e2b728b97#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfeEp1S2Z5QXNlYWtjd21PUGVLVzRn@ea51.zavqeron.ir:32222#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfeEp1S2Z5QXNlYWtjd21PUGVLVzRn@1e20.velqixa.ir:36227#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=1&type=tcp&headerType=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
+vless://fbaa413d-2ffb-4e36-8444-e1b1ab829fe1@188.241.54.208:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=qlVZ2ehdXHCxIADkf5swgXT2ZHrpSP7HM6SKTBMQXRU&sid=456bf62e2b728b97&spx=/&type=tcp&headerType=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=1&type=tcp&headerType=none#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
-vless://6adfde3e-4c12-47ee-9f4a-319411b7bdd6@d337.donyumvps.tr:38110?security=reality&encryption=none&pbk=1Q3zohXtB9456PLQ8qRAxi8HJhePgKyfiSFEa0Z8lwA&headerType=none&fp=chrome&type=tcp&sni=www3.donyumvps.tr&sid=7eba3a47#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptbF9wUVVrandvSjI2MlpTZUk2ZzBB@3b59.donyumvps.tr:33118#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 IS
