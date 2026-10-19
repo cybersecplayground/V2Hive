@@ -1,2 +1,1 @@
-vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=none&encryption=none&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 UZ
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 UZ
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=/5021201ef53f&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=ws#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 UZ
