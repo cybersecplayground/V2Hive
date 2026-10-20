@@ -16,7 +16,7 @@ vless://c3679deb-50bc-451f-98c8-c6a1bf5455da@45.80.209.231:36514?security=realit
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443?path=/@Rayan_Config&security=tls&encryption=none&host=rayan-12.leila.dpdns.org&fp=chrome&type=ws&sni=rAyAn-12.LeIlA.DpDnS.OrG#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.163.53:989#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
 ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@92.223.105.40:50006#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
 vmess://eyJhZGQiOiAiMTg4LjQyLjg4LjIyNyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjNhMjFkZWYtNWZjYy00N2E4LWE2YTAtYTM0ZTI5ZDUyODhhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93c3M1MTA2OCIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNkXHVkZTgwIEBMZXRzR2V0VlBOIEBDeWJlclNlY1BsYXlncm91bmQgfCBcdWQ4M2NcdWRmMGQgXHVkODNjXHVkZjBkIExVIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.42.89.68:8880/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg. #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
 trojan://Go5e2nKM8T@188.42.88.144:2053?path=🔒 [By EbraSha]&security=tls&host=aa.v2jey.fun&type=ws&sni=🔒 [By EbraSha] اول] #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
