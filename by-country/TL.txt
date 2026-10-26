@@ -1,1 +1,1 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.22.52.21:443?type=ws&security=tls&path=/&sni=13bca32d.ba73fe85.netlib.re#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 TL
+vless://2445edef-76b7-4713-87b9-ed6aa0b1a2c9@160.22.52.236:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=titp.iranroyalzhin.ir&fp=chrome&type=ws&allowInsecure=0&sni=titp.iranroyalzhin.ir#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 TL
