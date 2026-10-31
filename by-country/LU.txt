@@ -1,4 +1,4 @@
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
+trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&type=ws&host=www.volumeroot.com&path=/assignment#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
 vless://60a361f9-3c45-4954-9e4c-92a85bda243d@31.184.244.162:2053?mode=gun&security=reality&encryption=none&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=4881f8244d1b9021#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
 vless://62ff829a-d100-4c06-a324-90bfe2f47a52@31.184.244.134:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=jouakehof491.dop72.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
 vless://62ff829a-d100-4c06-a324-90bfe2f47a52@31.184.244.134:8443?security=none&encryption=mlkem768x25519plus.native.0rtt.z2_SHfMrKymGoWmcxUOEp5osW37MHj0ULiTtKZZ-X00&host=play.google.com&headerType=http&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
