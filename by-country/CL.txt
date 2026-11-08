@@ -1,4 +1,4 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
 vless://ad5325f8-f0b3-41c4-a561-113529b60e70@34.176.137.90:443?fp=chrome&pbk=HnHVuSObMrldWGzq1-Eb93fwgu6QQRp6H0_8LX3ikDc&security=reality&sid=2c2d919f5183d0b7&sni=www.cloudflare.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hk010.zestapp778.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 CL
