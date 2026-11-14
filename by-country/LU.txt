@@ -1,5 +1,5 @@
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
 vless://368f828f-0f13-4d94-afed-41ced957b565@31.184.244.18:8443?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
 vless://368f828f-0f13-4d94-afed-41ced957b565@31.184.244.18:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ynmeiwjd94b7.dprax.com&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
 vless://60a361f9-3c45-4954-9e4c-92a85bda243d@31.184.244.162:2053?mode=gun&security=reality&encryption=none&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=4881f8244d1b9021#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
 vless://e4769292-66a6-45f7-be3a-1ebbdb7f8448@31.184.244.163:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ipevmneob325.dop16.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🌍 LU
