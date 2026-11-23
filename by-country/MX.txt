@@ -1,7 +1,7 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226?security=none&encryption=none&headerType=none&type=tcp#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
-trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 vless://ad295072-0049-4981-a9aa-6314c43e87e5@n3.fernstatic.com:443?mode=auto&pbk=LGj0rJ5R28CbD24VRc5nCpNg-2EMU85fmUZNdrZ6CWI&security=reality&sid=bc7b676b8ed7b300&sni=n3.fernstatic.com&type=http&fp=chrome#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.230:989 #🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
 trojan://bMJKkQZ1xHhlBjVo_wSiPUmCGRvEn@216.238.79.82:25121/?type=tcp&security=tls&sni=ya.ru#🚀 @LetsGetVPN @CyberSecPlayground | 🌍 🇲🇽 MX
